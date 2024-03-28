@@ -10,7 +10,7 @@
     "invalid_enum_value": "არასწორი ენუმერატორის მნიშვნელობა. უნდა ყოფილიყო {{- options}}, მიიღო '{{received}}'",
     "invalid_arguments": "არასწორი ფუნქციის არგუმენტები",
     "invalid_return_type": "არასწორი ფუნქციის დაბრუნების ტიპი",
-    "invalid_date": "არასწორი თარიღი",
+    "invalid_date": "თარიღი არასწორია.",
     "custom": "არასწორი მნიშვნელობა",
     "invalid_intersection_types": "გადაკვეთის შედეგები ვერ გაერთიანდა",
     "not_multiple_of": "ციფრი უნდა იყოს {{multipleOf}}-ის ჯერადი",
